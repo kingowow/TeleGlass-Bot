@@ -22,3 +22,18 @@ A lightweight, serverless Telegram bot for creating messages with inline (glass)
 
 # دمو ربات | demo : 
  به زودی / coming soon 
+
+---
+
+## ⭐ حمایت از پروژه
+
+۱. دادن ⭐ به پروژه  
+۲. کمک مالی/ donate : 
+- **ton(gram):** `UQBH5Lqr56r5yhgb8enn2Yd7xJClZ66LbCvtM17INAfItU18`
+
+
+---
+
+<p align="center">
+  Made by t.me/kingo_team
+</p>
