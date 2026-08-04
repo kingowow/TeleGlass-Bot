@@ -21,7 +21,7 @@ A lightweight, serverless Telegram bot for creating messages with inline (glass)
 --- 
 
 # دمو ربات | demo : 
- به زودی / coming soon 
+ @KoGlassBot
 
 ---
 
